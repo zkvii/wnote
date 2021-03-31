@@ -1,9 +1,0 @@
-C:\Users\23303\source\repos\Wnote\Wnote.Core\bin\Debug\netstandard2.0\Wnote.Core.deps.json
-C:\Users\23303\source\repos\Wnote\Wnote.Core\bin\Debug\netstandard2.0\Wnote.Core.dll
-C:\Users\23303\source\repos\Wnote\Wnote.Core\bin\Debug\netstandard2.0\Wnote.Core.pdb
-C:\Users\23303\source\repos\Wnote\Wnote.Core\obj\Debug\netstandard2.0\Wnote.Core.csprojAssemblyReference.cache
-C:\Users\23303\source\repos\Wnote\Wnote.Core\obj\Debug\netstandard2.0\Wnote.Core.AssemblyInfoInputs.cache
-C:\Users\23303\source\repos\Wnote\Wnote.Core\obj\Debug\netstandard2.0\Wnote.Core.AssemblyInfo.cs
-C:\Users\23303\source\repos\Wnote\Wnote.Core\obj\Debug\netstandard2.0\Wnote.Core.csproj.CoreCompileInputs.cache
-C:\Users\23303\source\repos\Wnote\Wnote.Core\obj\Debug\netstandard2.0\Wnote.Core.dll
-C:\Users\23303\source\repos\Wnote\Wnote.Core\obj\Debug\netstandard2.0\Wnote.Core.pdb
