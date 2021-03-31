@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\23303\Downloads\_penguin.png</Source>
+    <SmallTileSource>C:\Users\23303\Downloads\_penguin.png</SmallTileSource>
+    <MediumTileSource>C:\Users\23303\Downloads\_penguin.png</MediumTileSource>
+    <WideTileSource>C:\Users\23303\Downloads\_penguin.png</WideTileSource>
+    <LargeTileSource>C:\Users\23303\Downloads\_penguin.png</LargeTileSource>
+    <AppIconSource>C:\Users\23303\Downloads\_penguin.png</AppIconSource>
+    <SplashScreenSource>C:\Users\23303\Downloads\_penguin.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\23303\Downloads\_penguin.png</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\23303\Downloads\_penguin.png</BadgeLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <UseSimulator>false</UseSimulator>
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>false</UseEmulator>
+  </PropertyGroup>
+</Project>
